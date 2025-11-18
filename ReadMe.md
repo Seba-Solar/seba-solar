@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Java with Springboot Framework<br>I have already experience working with Express Js<br>I work as a Oracle Partnertship in Metacontrol<br>I work with Oracle Integration Cloud and being DBA for Primavera Unifier<br>
+I'm currently learning Java with Springboot Framework<br>I have already experience working with Express Js<br>I work as a Oracle Partnertship in Metacontrol<br>I work with Oracle Integration Cloud and being DBA for Primavera Unifier<br><br>I have experience working in Databases using MySQL<br>
 
 
 ## 🌐 Socials:
